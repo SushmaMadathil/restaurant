@@ -1,0 +1,17 @@
+﻿
+
+<html xmlns="http://www.w3.org/1999/xhtml" ng-app="ShowUsers">
+<body>
+	<h2>Login Form</h2>
+
+
+	<form ng-controller="checkUser" ng-submit="save()">
+		<br />
+		<input placeholder="name" type="text" ng-model="name" /><br />
+		<input placeholder="password" type="password" ng-model="password" /><br />
+		<input type="submit" value="Register" /><br />
+		{{message}}
+	</form>
+
+</body>
+</html>

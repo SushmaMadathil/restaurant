@@ -1,0 +1,18 @@
+﻿<!DOCTYPEhtml>
+
+<html xmlns ="http://www.w3.org/1999/xhtml" ng-app="ShowUsers">
+
+	<body>
+		<h1>Sign up:</h1>
+		
+
+<form ng-controller ="addUser" ng-submit="save()"><br />
+<input placeholder ="name" type="text" ng-model="name" /><br />
+<input placeholder ="email" type="email" ng-model="email" /><br />
+<input placeholder ="password" type="password" ng-model="password" /><br />
+<input type="submit" value="Register" /><br /> 
+{{message}}
+</form>
+
+ 	</html>
+

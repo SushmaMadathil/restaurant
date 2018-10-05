@@ -1,0 +1,17 @@
+﻿
+<link href="stylesheets/Stylesheet2.css" rel="stylesheet" />
+<h1>DRINKS:</h1>
+<div ng-controller="DrinkTypes">
+	
+
+	<div class="gallery" ng-repeat="type in types" >
+	<img src="{{type.ImageUrl}}" alt="ImageFailed" width="500" height="400"/>
+		<div class="desc">{{type.Name}}</div>
+		<div class="desc">{{type.Description}}</div>
+		<div class="desc">${{type.Price}}</div>
+		<button ng-click="count=count+1" ng-init="count=0">ADD</button>
+		<button ng-click="addToCart(type,type.Price,count)">ADD TO CART</button>
+		<span>Qty:{{count}}</span>
+
+	</div>
+</div>

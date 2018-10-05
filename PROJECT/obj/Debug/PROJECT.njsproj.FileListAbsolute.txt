@@ -1,0 +1,5 @@
+C:\Users\Muffin\documents\visual studio 2015\Projects\PROJECT\PROJECT\bin\Microsoft.NodejsTools.WebRole.dll
+C:\Users\Muffin\documents\visual studio 2015\Projects\PROJECT\PROJECT\obj\Debug\PROJECT.njsprojResolveAssemblyReference.cache
+D:\Github\PROJECT\PROJECT\obj\Debug\PROJECT.njsprojAssemblyReference.cache
+D:\Github\PROJECT\PROJECT\obj\Debug\PROJECT.njsproj.CoreCompileInputs.cache
+D:\Github\PROJECT\PROJECT\bin\Microsoft.NodejsTools.WebRole.dll

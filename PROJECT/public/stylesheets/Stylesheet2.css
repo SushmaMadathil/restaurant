@@ -1,0 +1,29 @@
+﻿
+body {
+	background-color:black;
+}
+div.gallery {
+    /*margin: 20px;*/
+    border: 5px solid #252a33;
+    float: initial;
+    /*width: 200px;*/
+	text-align: center;
+	display: block;
+    margin: auto;
+    width: 60%;
+	background-color:black;
+}
+
+div.gallery:hover {
+    border: 5px solid #9e0303;
+}
+
+div.gallery img {
+    width: 100%;
+    height: auto;
+}
+
+div.desc {
+    padding: 15px;
+    text-align: center;
+}

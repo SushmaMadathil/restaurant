@@ -1,0 +1,69 @@
+﻿{
+	"1": 
+	{
+		"FoodTypeId": 1,
+		"Name": "AVOLI FRY",
+		"Description": "Delicious fried avoli fish with herbs.",
+		"Price": "10",
+		"ImageUrl": "images/appetizers/avoli.jpg"
+	},
+	"2": 
+	{
+		"FoodTypeId": 2,
+		"Name": "FISH CAKES",
+		"Description": "Fresh ocean fish baked golden brown.",
+		"Price": "10",
+		"ImageUrl": "images/appetizers/crabcakes.jpg"
+	},
+	"3": 
+	{
+		"FoodTypeId": 3,
+		"Name": "TUNA SALAD",
+		"Description": "Healthy salad made out of tuna and fresh vegetables.",
+		"Price": "8",
+		"ImageUrl": "images/appetizers/tunaSalad.jpg"
+	},
+	"4": {
+		"FoodTypeId": 4,
+		"Name": "FISH FRY WITH ONION",
+		"Description": "Fresh salmon fried with exotic herbs and onion.",
+		"Price": "10",
+		"ImageUrl": "images/appetizers/masalaOnionFishFry.jpg"
+	},
+	"5": {
+		"FoodTypeId": 5,
+		"Name": "HOT AND SWEET FISH FINGER",
+		"Description": "Fish finger drizzled with tangy hot and sweet sauce.",
+		"Price": "8",
+		"ImageUrl": "images/appetizers/fishFingers.jpg"
+	},
+	"6": {
+		"FoodTypeId": 6,
+		"Name": "TUNA APPLE SALAD",
+		"Description": "Tuna and apple salad with a side of salsa sauce.",
+		"Price": "8",
+		"ImageUrl": "images/appetizers/tunaApple.jpg"
+	},
+	"7": {
+		"FoodTypeId": 7,
+		"Name": "PAN FRIED MASALA SHRIMP",
+		"Description": "Fresh shrimps pan fried and sprinkled with spices.",
+		"Price": "10",
+		"ImageUrl": "images/appetizers/masalaShrimp2.jpg"
+	},
+	"8": {
+		"FoodTypeId": 8,
+		"Name": "ANCHOVY FRY",
+		"Description": "Deep fried anchovy.",
+		"Price": "10",
+		"ImageUrl": "images/appetizers/anchovyFry.jpg"
+	},
+	"9": 
+	{
+		"FoodTypeId": 9,
+		"Name": "NEETHOLI PEERA",
+		"Description": "Anchovies deep fried with stir fried coconut.",
+		"Price": "10",
+		"ImageUrl": "images/appetizers/anchoviesCoconut.jpg"
+	}
+}

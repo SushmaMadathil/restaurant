@@ -1,0 +1,90 @@
+﻿{
+	"1": 
+	{
+		"FoodTypeId": 1,
+		"Name": "SHRIMP FRIED RICE",
+		"Description": "Fried rice topped with freshly stir fried shrimps.",
+		"Price": "$10",
+		"ImageUrl": "images/entrees/ShrimpFriedRice.jpg"
+	},
+	"2": 
+	{
+		"FoodTypeId": 2,
+		"Name": "FISH PULAO ",
+		"Description": "Rice cooked with spices and topped with flavoured fish .",
+		"Price": "$10",
+		"ImageUrl": "images/entrees/FishPulao.JPG"
+	},
+	"3": 
+	{
+		"FoodTypeId": 3,
+		"Name": "PRAWN BIRIYANI",
+		"Description": "Royal biriyani with shrimp.",
+		"Price": "$10",
+		"ImageUrl": "images/entrees/prawnBiriyani.jpg"
+	},
+	"4": {
+		"FoodTypeId": 4,
+		"Name": "KERALA TOMATO FISH",
+		"Description": "Fish cooked with exotic masalas and tangy tomatoes.",
+		"Price": "$10",
+		"ImageUrl": "images/entrees/keralaTomatoFish.jpg"
+	},
+	"5": {
+		"FoodTypeId": 5,
+		"Name": "TUNA PASTA",
+		"Description": "Cheeze pasta with tuna baked in heat.",
+		"Price": "$12",
+		"ImageUrl": "images/entrees/tunaPasta.jpeg"
+	},
+	"6": {
+		"FoodTypeId": 6,
+		"Name": "NAAN",
+		"Description": "Indian bread.",
+		"Price": "$2",
+		"ImageUrl": "images/entrees/naanBread.jpg"
+	},
+	"7": {
+		"FoodTypeId": 7,
+		"Name": "MEEN CURRY",
+		"Description": "Fish Curry with raw mango in coconut milk.",
+		"Price": "$12",
+		"ImageUrl": "images/entrees/fishMangoCoconut2.jpg"
+	},
+	"8": {
+		"FoodTypeId": 8,
+		"Name": "FISH MASALA CURRY",
+		"Description": "Fish curry with a spicy gravy with a tangy orange flavour.",
+		"Price": "$12",
+		"ImageUrl": "images/entrees/fishCurry.jpg"
+	},
+	"9": {
+		"FoodTypeId": 9,
+		"Name": "QUICK SARDINE CURRY",
+		"Description": "Sadine curry made with coconut milk.",
+		"Price": "$8",
+		"ImageUrl": "images/entrees/quickSardine.jpg"
+	},
+	"10": {
+		"FoodTypeId": 10,
+		"Name": "SHRIMP GREEN CURRY",
+		"Description": "Shrimp curry made with a flavour of mint and coriander.",
+		"Price": "$10",
+		"ImageUrl": "images/entrees/shrimpGreenCurry.jpg"
+	},
+	"11": {
+		"FoodTypeId": 11,
+		"Name": "CHEMMEEN MANGA",
+		"Description": "Dried prawns mango curry.",
+		"Price": "$12",
+		"ImageUrl": "images/entrees/chemmeenManga.jpg"
+	},
+	"12": 
+	{
+		"FoodTypeId": 12,
+		"Name": "PULLISERI",
+		"Description": "Spiced yogurt and coconut curry.",
+		"Price": "$5",
+		"ImageUrl": "images/entrees/Pulliseri.jpg"
+	}
+}

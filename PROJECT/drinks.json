@@ -1,0 +1,69 @@
+﻿{
+	"1": 
+	{
+		"FoodTypeId": 1,
+		"Name": "BANANA OATS SMOOTHIE",
+		"Description": "Delicious smoothie made out of fresh bananas and super healthy oats.",
+		"Price": "4",
+		"ImageUrl": "images/drinks/bananaOats.jpg"
+	},
+"2": 
+	{
+		"FoodTypeId": 2,
+		"Name": "SPICY BUTTERMILK ",
+		"Description": "Buttermilk spiced with different authentic kerala spices.",
+		"Price": "5",
+		"ImageUrl": "images/drinks/spicyButtermilk.jpg"
+	},
+	"3": 
+	{
+		"FoodTypeId": 3,
+		"Name": "BANANA APPLE SMOOTHIE",
+		"Description": "Smoothie made out of the sweetest ripe bananas and fresh apples out of orchard.",
+		"Price": "5",
+		"ImageUrl": "images/drinks/bananaApple.jpg"
+	},
+	"4": {
+		"FoodTypeId": 4,
+		"Name": "BANANA PEANUT BUTTER SMOOTHIE",
+		"Description": "Smoothie with creamy peanut butter and fresh bananas.",
+		"Price": "5",
+		"ImageUrl": "images/drinks/bananaPeanut.jpg"
+	},
+	"5": {
+		"FoodTypeId": 5,
+		"Name": "AROMATIC MASALA TEA",
+		"Description": "Tea flavoured with spices.",
+		"Price": "2",
+		"ImageUrl": "images/drinks/masalaTea.jpg"
+	},
+	"6": {
+		"FoodTypeId": 6,
+		"Name": "RIPE PLANTAIN PEAR SMOOTHIE",
+		"Description": "Fresh orchard pears smoothie.",
+		"Price": "4",
+		"ImageUrl": "images/drinks/Pear.jpg"
+	},
+	"7": {
+		"FoodTypeId": 7,
+		"Name": "WATERMELON SORBET",
+		"Description": "Frozen dessert made from sweetened water with Watermelon flavouring",
+		"Price": "3",
+		"ImageUrl": "images/drinks/SorbetWM.jpg"
+	},
+	"8": {
+		"FoodTypeId": 8,
+		"Name": "SPICY ORANGE JUICE",
+		"Description": "Tangy orange juice with a spicy twist.",
+		"Price": "2",
+		"ImageUrl": "images/drinks/spicyOrange.jpeg"
+	},
+	"9": 
+	{
+		"FoodTypeId": 9,
+		"Name": "MANGO MILK SHAKE",
+		"Description": "Alphanso milk shake.",
+		"Price": "5",
+		"ImageUrl": "images/drinks/MangoMilkshake.jpg"
+	}
+}

@@ -1,0 +1,100 @@
+﻿<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<metacharset ="utf-8" />
+	<title></title>
+	<base href ="/" />
+
+	<link href="stylesheets/Stylesheet1.css" rel="stylesheet" />
+
+	<script src="javascripts/angular.js"></script>
+	<script src="javascripts/angular-resource.js"></script>
+	<script src="javascripts/angular-ui-router.js"></script>
+	<script src="javascripts/angular-route.js"></script>
+
+	<script src="javascripts/index.js"></script>
+	</head>
+<body ng-app="restaurant">
+	<header >
+		<nav ng-controller="navigation">
+			<ul>
+				<li><a ui-sref="Home" ui-sref-active="active">Home page</a></li>
+				<li><a ui-sref="User" ui-sref-active="active">About</a></li>
+				<li class="dropdown">
+					<a ui-sref="Food" ui-sref-active="active" class="dropbtn">Food</a>
+					<div class="dropdown-content">
+						<a ui-sref="Drinks">Drinks</a>
+						<a ui-sref="Appetizers">Appetizers</a>
+						<a ui-sref="Entrees">Entrees</a>
+						<a ui-sref="Desserts">Desserts</a>
+					</div>
+				</li>
+				<li><a ui-sref="Login" ui-sref-active="active">LOGIN</a></li>
+			
+				<li><a ui-sref="SignUp" ui-sref-active="active">SIGN UP</a></li>
+				<li><a href="#" ng-click="cartOn = !cartOn">CART</a></li>
+			</ul>
+			<div ng-show="cartOn" ng-include src="'cart.html'"></div>
+			<div class="bgimg-1">
+				<div class="caption">
+					<span class="border">Kathakali</span>
+				</div>
+			</div>
+			
+			
+			
+			<!----<ul>
+				<li><a ui-sref="Home" ui-sref-active="active">Home page</a></li>
+				<li><a ui-sref="User" ui-sref-active="active">Users</a></li>
+				<li><a ui-sref="Food" ui-sref-active="active">Food</a></li>
+			</ul>-->
+		</nav>
+	</header>
+	
+	<main ui-view="main"><!-- style="height:300px; width:500px">-->
+		<div style="color:#777; background-color:black; text-align:center; padding:50px 80px; text-align:justify; ">
+			<h3 style="text-align:center;">THE LOGO</h3>
+			<p></p>
+		</div>
+
+		<div class="bgimg-2">
+			<div class="caption">
+				<span class="border" style="background-color:transparent; font-size:25px; color:#f7f7f7;"></span>
+			</div>
+		</div>
+		<div style="position:relative;">
+			<div style="color:#ddd; background-color:#282E34; text-align:center; padding:50px 80px; text-align:justify;">
+				<p>Taste brought to you from God's own country!!!</p>
+			</div>
+		</div>
+		<div class="bgimg-3">
+			<div class="caption">
+				<span class="border" style="background-color:transparent; font-size:25px; color:#f7f7f7;">JUST CHECKING</span>
+			</div>
+		</div>
+		<div style="position:relative;">
+			<div style="color:#ddd; background-color:#282E34; text-align:center; padding:50px 80px; text-align:justify;">
+				<p>The best Indian seafood you can get, is here!!!</p>
+			</div>
+		</div>
+
+
+	</main>
+	
+	<footer>
+	<!--<div style="text-align: center" class="bgimg-4">
+		<div class="caption">
+			<span class="border"> COOL!!</span>
+		</div>
+	
+	</div>-->
+		<div style="color:#ddd; background-color:#282E34; text-align:center; padding:50px 80px; text-align:justify;">
+			<p>Welcome to the taste of INDIA!!!</p>
+		</div>
+	</footer>
+	
+
+
+</body>
+</html>

@@ -1,0 +1,30 @@
+﻿{
+	"1": 
+	{
+		"FoodTypeId": 1,
+		"Name": "Appetizer",
+		"Description": "An appetizer for your meal.",
+		"ImageUrl": ""
+	},
+	"2": 
+	{
+		"FoodTypeId": 2,
+		"Name": "Entree",
+		"Description": "An entree for your meal.",
+		"ImageUrl": ""
+	},
+	"3": 
+	{
+		"FoodTypeId": 3,
+		"Name": "Dessert",
+		"Description": "A dessert for your meal.",
+		"ImageUrl": ""
+	},
+	"4": 
+	{
+		"FoodTypeId": 4,
+		"Name": "Beverage",
+		"Description": "A beverage for your meal.",
+		"ImageUrl": ""
+	}
+}

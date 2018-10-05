@@ -1,0 +1,69 @@
+﻿{
+	"1": 
+	{
+		"FoodTypeId": 1,
+		"Name": "ROASTED ACORN SQUASH",
+		"Description": "Squash made out of roasted acorn.",
+		"Price": "5",
+		"ImageUrl": "images/desserts/AcornSquash.jpg"
+	},
+	"2": 
+	{
+		"FoodTypeId": 2,
+		"Name": "CREAMY STRAWBERRY YOGURT ",
+		"Description": "Creamy yougurt with freshly chopped strawberry.",
+		"Price": "5",
+		"ImageUrl": "images/desserts/strawberryYogurt.jpg"
+	},
+	"3": 
+	{
+		"FoodTypeId": 3,
+		"Name": "MAMBAZHA PRADHAMAM",
+		"Description": "Mango Pudding.",
+		"Price": "5",
+		"ImageUrl": "images/desserts/mangoPudding.jpg"
+	},
+	"4": {
+		"FoodTypeId": 4,
+		"Name": "CHOCOLATE PAYASAM",
+		"Description": "Dessert made out of rice, sweetened milk and chocolate.",
+		"Price": "5",
+		"ImageUrl": "images/desserts/chocolatePayasam.jpg"
+	},
+	"5": {
+		"FoodTypeId": 5,
+		"Name": "PAAL PIDI",
+		"Description": "Sweet rice dumplings.",
+		"Price": "2",
+		"ImageUrl": "images/desserts/paalPidi2.jpg"
+	},
+	"6": {
+		"FoodTypeId": 6,
+		"Name": "BANANA CAKE",
+		"Description": "Freshly baked banana cake.",
+		"Price": "4",
+		"ImageUrl": "images/desserts/bananaCake.jpeg"
+	},
+	"7": {
+		"FoodTypeId": 7,
+		"Name": "MANGO SORBET",
+		"Description": "Ice dessert made of creamy mango.",
+		"Price": "3",
+		"ImageUrl": "images/desserts/mangoSorbet.jpg"
+	},
+	"8": {
+		"FoodTypeId": 8,
+		"Name": "VATTAYAPPAM",
+		"Description": "steamed rice cake.",
+		"Price": "2",
+		"ImageUrl": "images/desserts/vattappam.JPG"
+	},
+	"9": 
+	{
+		"FoodTypeId": 9,
+		"Name": "STRAWBERRY BANANA COFEE CAKE",
+		"Description": "Freshly baked banana and cofee cake topped with freshly chopped strawberry.",
+		"Price": "5",
+		"ImageUrl": "images/desserts/strawberryBananaCoffee.jpg"
+	}
+}

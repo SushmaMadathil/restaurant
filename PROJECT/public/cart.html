@@ -1,0 +1,13 @@
+﻿<h1>CART:</h1>
+<p>The items in your cart are:</p>
+	<div class="gallery">
+		<table class="desc" id="cart">
+			<tr ng-repeat="item in items">
+				<td>{{item.name}}</td>
+				<td>&nbsp;&nbsp;&nbsp;{{item.price}}</td>
+				<td>Qty: <input type="text" ng-model="item.quantity" /></td>
+				<td>{{item.price*item.quantity}}</td>
+			</tr>
+		</table>
+		
+	</div>
